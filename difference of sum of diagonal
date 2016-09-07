@@ -1,7 +1,7 @@
 #include<conio.h>
 #include<stdio.h>
 #define max100
-void main()
+int main()
 {
   int a[max][max],n,i,j;
   printf("enter the size less than %d",max);
